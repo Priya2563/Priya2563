@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Priya 👋
 
-<!--
-**Priya2563/Priya2563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Fresher Software Developer  
+📍 Mumbai, India
 
-Here are some ideas to get you started:
+I am a computer science graduate with strong basics in web development
+and backend development. I am currently looking for trainee or internship
+opportunities where I can learn and contribute.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML, CSS
+- JavaScript (Basics, DOM)
+- C# (OOP, Console Applications)
+- SQL Server
+- ASP.NET Core MVC
+- Git & GitHub (Basics)
+
+## 📂 Projects
+Please check my repositories below for:
+- HTML & CSS websites
+- JavaScript mini projects
+- C# Console CRUD application
+- SQL Server practice
+- ASP.NET Core MVC basic project
+
+## 🌱 Currently Learning
+- ASP.NET Core MVC
+- Entity Framework Core
+- Interview-focused problem solving
+
+## 📫 Contact: priyagirjashankar57911@gmail.com
