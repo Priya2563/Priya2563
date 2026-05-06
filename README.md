@@ -13,6 +13,7 @@ opportunities where I can learn and contribute.
 - C# (OOP, Console Applications)
 - SQL Server
 - ASP.NET Core MVC
+- Entity Framework
 - Git & GitHub (Basics)
 
 ## 📂 Projects
