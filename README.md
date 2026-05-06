@@ -14,7 +14,7 @@ opportunities where I can learn and contribute.
 - SQL Server
 - ASP.NET Core MVC
 - Entity Framework
-- Git & GitHub (Basics)
+- Git & GitHub 
 
 ## 📂 Projects
 Please check my repositories below for:
@@ -22,11 +22,12 @@ Please check my repositories below for:
 - JavaScript mini projects
 - C# Console CRUD application
 - SQL Server practice
-- ASP.NET Core MVC basic project
+- ASP.NET Core MVC  project
 
 ## 🌱 Currently Learning
 - ASP.NET Core MVC
 - Entity Framework Core
+- asp.net core web api
 - Interview-focused problem solving
 
 ## 📫 Contact: priyagirjashankar57911@gmail.com
